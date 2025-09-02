@@ -57,7 +57,7 @@ I am currently building a portfolio of data-centric and AI-driven projects. The 
 
 ### 📫 Let's Connect
 
--   **LinkedIn:** linkedin.com/in/samuel-munoz-millan
+-   **LinkedIn:** www.linkedin.com/in/samuel-munoz-millan
 -   **Email:** samuelmm1301@gmail.com
 -   **Location:** Jaén, Spain
 
