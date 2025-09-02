@@ -1,82 +1,65 @@
-# 👋 Hi, I'm Samuel 
+### Hi there! I'm Samuel 👋
 
-I'm a 20-year-old Computer Engineering student at the University of Jaén, focused on turning ideas into functional, scalable software. I'm passionate about creating tools that simplify people’s lives—whether it's through automation, modern web interfaces, or AI integration.
+<br>
 
-Currently building my portfolio with meaningful personal projects while developing strong foundations in backend, frontend, and cloud development. I aim to work on products that are useful, impactful, and actually solve real-world problems.
+I'm a **Computer Engineering** student at the University of Jaén, passionate about transforming data and ideas into functional, scalable software. My goal is to specialize in **Data Science, Big Data, and Artificial Intelligence** to build tools that solve complex problems and deliver real-world value.
 
----
+I am constantly seeking to apply my knowledge to projects that are not only technically sound but also have a tangible impact.
 
-## 💡 What I Do
-
-I enjoy working across the full stack, combining clean frontend design with robust backend systems. I'm especially interested in:
-
-- ✅ Building full-stack web apps with modern frameworks  
-- 🤖 Integrating AI into user-focused applications  
-- ⚙️ Automating repetitive tasks and processes with Python  
-- 🧩 Designing scalable APIs and database architectures  
-- 🧠 Learning by building: real projects with real users in mind  
-
-> My goal is to grow into a senior developer role, while also exploring freelancing and tech consulting in the near future.
+<br>
 
 ---
 
-## 🛠 Tech Stack
+### 🧠 Focus and Goals
 
-Here’s a breakdown of the technologies I'm currently using or learning, along with why I use them:
+I enjoy working across the entire software development lifecycle, with a growing interest in the data ecosystem. My key areas of focus are:
 
-### 🔷 Frontend  
-- **HTML5 & CSS3** – Semantic structure and responsive styling  
-- **JavaScript (ES6+)** – Dynamic functionality and logic  
-- **React** – Powerful library for building modern UI and SPA apps  
-- **Tailwind CSS** – Rapid, clean styling with utility-first design  
+-   🤖 **Artificial Intelligence & Machine Learning:** Developing and training models for practical applications.
+-   📊 **Data Analysis & Visualization:** Extracting insights from large datasets.
+-   ⚙️ **Backend & Data Architecture:** Designing robust APIs and scalable systems to process information.
+-   🐍 **Process Automation:** Creating scripts and tools to streamline repetitive tasks.
 
-### 🔶 Backend  
-- **Node.js + Express** – RESTful APIs, authentication, real-time apps  
-- **Python + Django** – Fast and secure backend for scalable apps  
-- **REST API Design** – Decoupled services with strong architecture  
+My goal is to establish myself as a developer specializing in AI and data, exploring opportunities that allow me to continuously learn and grow professionally.
 
-### 🟢 Databases  
-- **MongoDB** – Flexible NoSQL DB for modern JS stacks  
-- **MySQL** – Relational DB with strong integrity and structure  
-
-### 🤖 AI & Automation  
-- **OpenAI API** – Natural language tools and AI content generation  
-- **Selenium & BeautifulSoup** – Web scraping and automation with Python  
-- **Pandas** – Data manipulation and light analysis  
-
-### 🔧 Tools  
-- **Git & GitHub** – Version control and project management  
-- **VS Code** – Main editor with extensions for productivity  
-- **Postman** – API testing and design  
-- **Figma** – Prototyping and UI collaboration  
+<br>
 
 ---
 
-## 🚧 Projects I'm Working On
+### 🛠️ Tech Stack
 
-These are projects currently under development and will be published soon on this GitHub profile:
+Here are the technologies I'm currently working with and deepening my skills in to build my projects:
 
-### 📌 [Mini CRM for Freelancers](#)  
-A lightweight platform for freelancers to manage clients, contacts, and tasks. Includes reminders, task tracking, and project status views.  
-**Stack:** React, Node.js, MongoDB
+| Area                | Technologies                                                                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Languages**       | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **Data Science & AI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| **Backend**         | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
+| **Databases**       | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tools**           | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
-### 📄 [CV Generator with React + PDF Export](#)  
-Build your CV online with a clean UI, choose templates, and export as PDF. Perfect for non-tech users and quick resumes.  
-**Stack:** React, Tailwind CSS, jsPDF
-
-### ✅ [Daily Habit Tracker App](#)  
-Mobile-first app to help track and improve daily habits with calendar view, streaks, and notifications.  
-**Stack:** React (or React Native), Firebase
-
-> All projects will include full documentation, responsive design, and clean code with Git commits and proper structure.
+<br>
 
 ---
 
-## 📫 Let's Connect
+### 🚧 Projects in Development
 
-- 📧 Email: **samuelmm1301@gmail.com**
-- 🌍 Location: **Jaén, Spain**
+I am currently building a portfolio of data-centric and AI-driven projects. The following will be published on my profile soon:
+
+-   **Social Media Sentiment Analysis:** A tool to analyze opinions on a specific topic using Natural Language Processing (NLP).
+-   **Time-Series Forecasting Model:** A project to predict future values (like stock prices or product demand) based on historical data.
+-   **Recommendation System:** An implementation of a content recommendation engine (for movies, books, etc.) using collaborative filtering techniques.
+
+*All projects will include comprehensive documentation, clean code, and best practices for version control.*
+
+<br>
 
 ---
+
+### 📫 Let's Connect
+
+-   **LinkedIn:** `[Your LinkedIn Profile URL]`
+-   **Email:** samuelmm1301@gmail.com
+-   **Location:** Jaén, Spain
 
 > "Build fast. Learn smart. Improve daily."
+
