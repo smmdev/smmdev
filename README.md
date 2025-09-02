@@ -2,9 +2,9 @@
 
 <br>
 
-I'm a **Computer Engineering** student at the University of Jaén, passionate about transforming data and ideas into functional, scalable software. My goal is to specialize in **Data Science, Big Data, and Artificial Intelligence** to build tools that solve complex problems and deliver real-world value.
+I'm a **Computer Engineering** student at the University of Jaén with a deep passion for **Data Science, Big Data, and Artificial Intelligence**. My goal is to build a career focused on transforming complex datasets into intelligent solutions and actionable insights.
 
-I am constantly seeking to apply my knowledge to projects that are not only technically sound but also have a tangible impact.
+I am driven by the challenge of solving real-world problems through data, from analysis and modeling to the deployment of AI-powered applications.
 
 <br>
 
@@ -12,14 +12,14 @@ I am constantly seeking to apply my knowledge to projects that are not only tech
 
 ### 🧠 Focus and Goals
 
-I enjoy working across the entire software development lifecycle, with a growing interest in the data ecosystem. My key areas of focus are:
+My primary interest lies in the entire data lifecycle. My key areas of focus are:
 
--   🤖 **Artificial Intelligence & Machine Learning:** Developing and training models for practical applications.
--   📊 **Data Analysis & Visualization:** Extracting insights from large datasets.
--   ⚙️ **Backend & Data Architecture:** Designing robust APIs and scalable systems to process information.
--   🐍 **Process Automation:** Creating scripts and tools to streamline repetitive tasks.
+-   🤖 **Artificial Intelligence & Machine Learning:** Designing, training, and deploying models to solve practical challenges.
+-   📊 **Data Analysis & Engineering:** Building data pipelines, performing exploratory data analysis (EDA), and creating insightful visualizations.
+-   🐍 **Python for Data Science:** Mastering Python and its ecosystem (Pandas, NumPy, Scikit-learn, TensorFlow) for data manipulation and modeling.
+-   ⚙️ **Scalable Systems:** Understanding the architecture behind robust data processing systems and scalable backends.
 
-My goal is to establish myself as a developer specializing in AI and data, exploring opportunities that allow me to continuously learn and grow professionally.
+My goal is to grow into a role like Data Scientist or AI/ML Engineer, where I can work on impactful, data-driven products.
 
 <br>
 
@@ -27,15 +27,14 @@ My goal is to establish myself as a developer specializing in AI and data, explo
 
 ### 🛠️ Tech Stack
 
-Here are the technologies I'm currently working with and deepening my skills in to build my projects:
+These are the technologies I am focusing on to build my expertise in the data field:
 
-| Area                | Technologies                                                                                            |
-| ------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Languages**       | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
-| **Data Science & AI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
-| **Backend**         | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) |
-| **Databases**       | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Tools**           | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| Area                  | Technologies                                                                                                                                                           |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**         | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) |
+| **Data Science & AI** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
+| **Databases & Backend** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) |
+| **Tools & Platforms**  | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) |
 
 <br>
 
@@ -62,4 +61,3 @@ I am currently building a portfolio of data-centric and AI-driven projects. The 
 -   **Location:** Jaén, Spain
 
 > "Build fast. Learn smart. Improve daily."
-
