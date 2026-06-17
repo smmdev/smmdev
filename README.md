@@ -31,41 +31,6 @@ I'm a Computer Engineering student at the University of Jaén, specializing in D
 
 ---
 
-### Projects
-
-#### [Stock Pulse — Market Sentiment & Forecasting](https://github.com/smmdev/stock-pulse) ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-End-to-end pipeline that combines **NLP sentiment analysis** on financial news and social media with a **time-series forecasting model** (LSTM) to predict short-term stock price movements. Includes an interactive Streamlit dashboard for real-time visualization.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-FF6F00?logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
-![yfinance](https://img.shields.io/badge/yfinance-0A66C2?logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
----
-
-#### [InsightRAG — Document Q&A with Retrieval-Augmented Generation](https://github.com/smmdev/insightrag) ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-RAG-based application that lets users upload documents and ask natural language questions over them. Uses **FAISS** for semantic vector search and a local LLM for generation, with full source attribution on every response. Supports multi-document context and chunk-level traceability.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
----
-
-#### [TruthLens — Misinformation Detection & Explainability](https://github.com/smmdev/truthlens) ![Status](https://img.shields.io/badge/status-in%20development-yellow)
-NLP classifier that analyzes news articles and assigns a credibility score based on linguistic patterns, source metadata, and semantic similarity to verified fact-checked content. Uses **SHAP** for model explainability, making every prediction interpretable and transparent.
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-4B4B4B?logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
----
-
 ### Currently learning
 
 - Advanced deep learning architectures (attention mechanisms, transformers)
