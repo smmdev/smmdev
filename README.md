@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=C2410C&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hi,+I'm+Samuel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=500&height=50&lines=Hi,+I'm+Samuel" alt="Typing SVG" />
 
   **Computer Engineering Student · University of Jaén**<br>
   Focused on Data Science, Machine Learning & AI
@@ -36,8 +36,8 @@ I am a Computer Engineering student at the University of Jaén, specializing in 
 
 ### GitHub Activity
 <div align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smmdev&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/smmdev)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smmdev&layout=compact&theme=radical&hide_border=true&langs_count=5)](https://github.com/smmdev)
+  <img src="https://github-readme-stats.vercel.app/api?username=smmdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
 </div>
 
 <p align="center"><i>"Build fast. Learn smart. Improve daily."</i></p>
