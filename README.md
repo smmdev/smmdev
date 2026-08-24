@@ -36,8 +36,8 @@ I am a Computer Engineering student at the University of Jaén, specializing in 
 
 ### GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smmdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smmdev&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 <p align="center"><i>"Build fast. Learn smart. Improve daily."</i></p>
+
