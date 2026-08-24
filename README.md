@@ -36,7 +36,9 @@ I am a Computer Engineering student at the University of Jaén, specializing in 
 
 ### GitHub Activity
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smmdev&theme=tokyonight)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smmdev&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </div>
 
 <p align="center"><i>"Build fast. Learn smart. Improve daily."</i></p>
